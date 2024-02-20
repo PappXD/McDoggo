@@ -9,7 +9,7 @@ const snekfetch = require('snekfetch');
 const ms = require('parse-ms');
 
 const prefix = "m!";
-const token = "NjM4MzQwMDA2MjY3NzE1NTg0.Xnbfjg.Fj7wgztZfst3si9ZE_EYLMJmxV0";
+const token = "NjM4MzQwMDA2MjY3NzE1NTg0.Xnbfjg.Fj7wgztZfst3si9ZE_EYLMJmxV0"; // what was i doing back then LMFAOOO
 
 bot.on('ready', async () => {
     console.log("McDoggo is now online!")
